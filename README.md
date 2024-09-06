@@ -12,7 +12,6 @@ A simple counting web app that counts from 1 to 10 using HTML, CSS, and JavaScri
 
     Make changes to the UI or functionality.
     Commit and push your changes.
-    Share the repository link for review.
 
 📝 Instructions:
 
